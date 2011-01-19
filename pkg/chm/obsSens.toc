@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HEAD></HEAD><HTML><BODY>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Package obsSens:  Contents">
+<param name="Local" value="00Index.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Package obsSens:  R objects">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSens-package">
+<param name="Local" value="obsSens-package.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSens">
+<param name="Local" value="obsSens-package.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensCCC">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensCCN">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensCNN">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensNCC">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensNCN">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensNNN">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensSCC">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensSCN">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="obsSensSNN">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="print.obsSens">
+<param name="Local" value="print.obsSens.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="print.summary.obsSens">
+<param name="Local" value="print.obsSens.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="summary.obsSens">
+<param name="Local" value="print.obsSens.html">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Package obsSens:  Titles">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Compute Sensitivity analysis for Observational Studies ">
+<param name="Local" value="obsSensCCC.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Perform sensitivity analysis on observational studies to explore possible effects of unmeasured (lurking) variables. ">
+<param name="Local" value="obsSens-package.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Print and Summarize ObsSens objects. ">
+<param name="Local" value="print.obsSens.html">
+</OBJECT>
+</UL>
+</UL>
+</BODY></HTML>
