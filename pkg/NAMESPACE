@@ -1,2 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-S3Method(print,summary)
+S3method(print,summary)
