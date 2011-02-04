@@ -1,2 +1,4 @@
 exportPattern("^[[:alpha:]]+")
-S3method(print,summary)
+S3method(print,obsSens)
+S3method(summary,obsSens)
+S3method(print, summary.obsSens)
