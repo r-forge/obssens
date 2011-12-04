@@ -1,0 +1,7 @@
+export(obsSensCCC,obsSensCCN,obsSensCNN,obsSensNCC,obSensNCN,
+       obsSensNNN,obsSensSCC,obsSensSCN,obsSensSNN)
+
+S3method(print, obsSens)
+S3method(print, summary.obsSens)
+S3method(summary, obsSens)
+
