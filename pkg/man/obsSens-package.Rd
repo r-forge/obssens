@@ -57,9 +57,7 @@ mulihospital healthcare system.  Journal of Perinatology, 27, pp. 790-796.
 \keyword{ models }
 \keyword{ regression }
 \keyword{ survival }
-\seealso{
 
-}
 \examples{
 
 # Recreate tables from above references
