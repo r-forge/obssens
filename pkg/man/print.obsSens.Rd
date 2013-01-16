@@ -9,11 +9,11 @@
   observational data.
 }
 \usage{
-print.obsSens(x, ...)
+\method{print}{obsSens}(x, ...)
 
-summary.obsSens(object, digits=3, ...)
+\method{summary}{obsSens}(object, digits=3, ...)
 
-print.summary.obsSens(x, ...)
+\method{print}{summary.obsSens}(x, ...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
