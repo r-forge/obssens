@@ -37,7 +37,7 @@
   coefficients and confidence intervals to be passed to other
   typesetting/printing functions.
 }
-\author{Greg Snow \email{greg.snow@imail.org} }
+\author{Greg Snow \email{538280@gmail.com} }
 \examples{
 # Recreate tables from above references
 

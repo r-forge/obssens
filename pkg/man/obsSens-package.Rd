@@ -42,7 +42,7 @@ coefficients and upper and lower confidence limits.
 
 }
 \author{
-  Greg Snow \email{greg.snow@imail.org}
+  Greg Snow \email{538280@gmail.com}
 }
 \references{
 Lin, DY and Psaty, BM and Kronmal, RA. (1998): Assessing the Sensitivity

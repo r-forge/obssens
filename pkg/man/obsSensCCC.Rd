@@ -134,7 +134,7 @@ Baer, VL et. als (2007): Do Platelet Transfusions in the NICU Adversely
 Affect Survival? Analysis of 1600 Thrombocytopenic neonates in a
 mulihospital healthcare system.  Journal of Perinatology, 27, pp. 790-796.
 }
-\author{Greg Snow \email{greg.snow@imail.org}}
+\author{Greg Snow \email{538280@gmail.com}}
 \seealso{ \code{\link{print.obsSens}}, \code{\link{summary.obsSens}} }
 \examples{
 # Recreate tables from above references
