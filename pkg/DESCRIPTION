@@ -1,6 +1,6 @@
 Package: obsSens
 Type: Package
-Title: Sensitivity analysis for Observational studies
+Title: Sensitivity Analysis for Observational Studies
 Version: 1.4
 Date: 2022-04-23
 Author: Greg Snow <538280@gmail.com>
