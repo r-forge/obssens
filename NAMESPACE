@@ -1,7 +1,6 @@
-export(obsSensCCC,obsSensCCN,obsSensCNN,obsSensNCC,obSensNCN,
-       obsSensNNN,obsSensSCC,obsSensSCN,obsSensSNN)
-
-S3method(print, obsSens)
+exportPattern("^[[:alpha:]]+")
+S3method(print,obsSens)
+S3method(summary,obsSens)
 S3method(print, summary.obsSens)
-S3method(summary, obsSens)
+importFrom("stats", "coef", "confint", "model.matrix", "sd")
 
