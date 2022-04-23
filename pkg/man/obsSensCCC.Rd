@@ -20,24 +20,41 @@
   meaning normal (continuous), and S being a survival object.
 }
 \usage{
-obsSensCCC(model, which = 2, g0 = c(2, 6, 10), g1, p0 = seq(0, 1, 0.2), p1 = p0, logOdds = FALSE, method = c("approx", "sim"))
+obsSensCCC(model, which = 2, g0 = c(2, 6, 10), g1, p0 = seq(0, 1, 0.2),
+           p1 = p0, logOdds = FALSE, method = c("approx", "sim"))
 
-obsSensCCN(model, which = 2, gamma = round(seq(0, 2 * bstar, length = 6), 4), delta = seq(0, 3, 0.5), logOdds = FALSE, method = c("approx", "sim"))
+obsSensCCN(model, which = 2, gamma = round(seq(0, 2 * bstar, 
+           length = 6), 4), delta = seq(0, 3, 0.5), logOdds = FALSE,
+           method = c("approx", "sim"))
 
-obsSensCNN(model, which = 2, gamma = round(seq(0, 2 * bstar, length = 6), 4), rho = c(0, 0.5, 0.75, 0.85, 0.9, 0.95, 0.98, 0.99), sdx, logOdds = FALSE, method = c("approx", "sim"))
+obsSensCNN(model, which = 2, 
+           gamma = round(seq(0, 2 * bstar, length = 6), 4), 
+           rho = c(0, 0.5, 0.75, 0.85, 0.9, 0.95, 0.98, 0.99), sdx,
+           logOdds = FALSE, method = c("approx", "sim"))
 
-obsSensNCC(model, which = 2, g0 = c(2, 6, 10), g1, p0 = seq(0, 1, 0.2), p1 = p0, log = TRUE, method = c("approx", "sim"))
+obsSensNCC(model, which = 2, g0 = c(2, 6, 10), g1, p0 = seq(0, 1, 0.2),
+           p1 = p0, log = TRUE, method = c("approx", "sim"))
 
-obsSensNCN(model, which = 2, gamma = round(seq(0, 3, length = 6), 4), delta = seq(0, 3, 0.5), log = TRUE, method = c("approx", "sim"))
+obsSensNCN(model, which = 2, gamma = round(seq(0, 3, length = 6), 4),
+           delta = seq(0, 3, 0.5), log = TRUE, 
+           method = c("approx", "sim"))
 
-obsSensNNN(model, which = 2, gamma = round(seq(0, 2 * bstar, length =
-6), 4), rho = c(0, 0.5, 0.75, 0.85, 0.9, 0.95, 0.98, 0.99), sdx, log = TRUE, method = c("approx", "sim"))
+obsSensNNN(model, which = 2, 
+           gamma = round(seq(0, 2 * bstar, length = 6), 4), 
+           rho = c(0, 0.5, 0.75, 0.85, 0.9, 0.95, 0.98, 0.99), 
+           sdx, log = TRUE, method = c("approx", "sim"))
 
-obsSensSCC(model, which = 2, g0 = c(2, 6, 10), g1, p0 = seq(0, 1, 0.2), p1 = p0, logHaz = FALSE, method = c("approx", "sim"))
+obsSensSCC(model, which = 2, g0 = c(2, 6, 10), g1, p0 = seq(0, 1, 0.2),
+           p1 = p0, logHaz = FALSE, method = c("approx", "sim"))
 
-obsSensSCN(model, which = 2, gamma = round(seq(0, 3, length = 6), 4), delta = seq(0, 3, 0.5), logHaz = FALSE, method = c("approx", "sim"))
+obsSensSCN(model, which = 2, 
+           gamma = round(seq(0, 3, length = 6), 4), 
+           delta = seq(0, 3, 0.5), logHaz = FALSE, 
+           method = c("approx", "sim"))
 
-obsSensSNN(model, which = 2, gamma = round(seq(0, 3, length = 6), 4), rho = c(0, 0.5, 0.75, 0.85, 0.9, 0.95, 0.98, 0.99), sdx, logHaz = FALSE, method = c("approx", "sim"))
+obsSensSNN(model, which = 2, gamma = round(seq(0, 3, length = 6), 4),
+           rho = c(0, 0.5, 0.75, 0.85, 0.9, 0.95, 0.98, 0.99), sdx,
+           logHaz = FALSE, method = c("approx", "sim"))
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{

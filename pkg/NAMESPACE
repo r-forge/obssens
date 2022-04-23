@@ -2,3 +2,5 @@ exportPattern("^[[:alpha:]]+")
 S3method(print,obsSens)
 S3method(summary,obsSens)
 S3method(print, summary.obsSens)
+importFrom("stats", "coef", "confint", "model.matrix", "sd")
+
