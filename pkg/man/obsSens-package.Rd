@@ -18,13 +18,7 @@ functions examine the effect of u on beta for different values of gamma
 and the relationship between u and y.
 }
 \details{
-\tabular{ll}{
-Package: \tab obsSens\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2007-12-21\cr
-License: \tab Artistic-2.0\cr
-}
+
 
 The key functions are all of the form obsSensYXU where Y specifies the
 type of variable used as the response variable (y), X specifies the type
